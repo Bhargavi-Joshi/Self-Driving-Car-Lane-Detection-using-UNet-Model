@@ -1,0 +1,8 @@
+Python 3.x
+OpenCV
+NumPy
+TensorFlow
+Keras
+Matplotlib
+scikit-image
+moviepy
