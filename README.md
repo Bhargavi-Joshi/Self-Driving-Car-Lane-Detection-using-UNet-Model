@@ -48,6 +48,10 @@
 <h3>Visualize Dataset</h3>
 <pre><code>python Visualize.py &lt;number_of_images&gt; &lt;start_index&gt;</code></pre>
 
+<h2>Dataset</h2>
+<p>The training and labelled dataset used for the lane detection models can be downloaded from the following link:</p>
+<p><a href="https://1024terabox.com/s/1yl4k5BYNWXlRUpoFvMgkZA" target="_blank">Download Dataset</a></p>
+
 <h2>Authors</h2>
 <p>Developed by:</p>
 <ul>
